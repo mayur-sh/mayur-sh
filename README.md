@@ -1,12 +1,3 @@
-## Connct with me
-<lord-icon
-    src="https://cdn.lordicon.com/lejydeti.json"
-    trigger="hover"
-    style="width:100px;height:100px">
-</lord-icon>
-
-<a href="https://lordicon.com/">Icons by Lordicon.com</a>
-
 ### Hi there 👋
 
 <!--
