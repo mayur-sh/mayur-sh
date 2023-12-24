@@ -1,3 +1,14 @@
+## Connct with me
+
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/lhwyshcs.json"
+    trigger="hover"
+    style="width:50px;height:50px">
+</lord-icon>
+
+<a href="https://lordicon.com/">Icons by Lordicon.com</a>
+
 ### Hi there 👋
 
 <!--
