@@ -1,12 +1,9 @@
 ## Connct with me
-<div>
-    <script src="https://cdn.lordicon.com/lordicon.js"></script>
-    <lord-icon
-        src="https://cdn.lordicon.com/lhwyshcs.json"
-        trigger="hover"
-        style="width:50px;height:50px">
-    </lord-icon>
-</div>
+<lord-icon
+    src="https://cdn.lordicon.com/lejydeti.json"
+    trigger="hover"
+    style="width:100px;height:100px">
+</lord-icon>
 
 <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
