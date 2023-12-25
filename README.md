@@ -5,10 +5,10 @@
 
 
 <p align="center">
-[![LinkedIn](static/icons/linkedin.png)](https://www.linkedin.com/in/mayur-sh) - 
-[![Portfolio](static/icons/website.png)](https://mayur-sh.github.io) - 
-[![Email](static/icons/mail.png)](mailto:mayurvs1998@gmail.com) - 
-[![Whatsapp](static/icons//whatsapp.png)](wa.me/919284999269)
+    <img src="static/icons/linkedin.png" alt="">
+    <img src="static/icons/portfolio.png" alt="">
+    <img src="static/icons/mail.png" alt="">
+    <img src="static/icons/whatsapp.png" alt="">
 </p>
 
 <!--
