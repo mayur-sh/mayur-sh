@@ -5,7 +5,10 @@
 
 
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+[![LinkedIn](static/icons/linkedin.png)](https://www.linkedin.com/in/mayur-sh) - 
+[![Portfolio](static/icons/website.png)](https://mayur-sh.github.io) - 
+[![Email](static/icons/mail.png)](mailto:mayurvs1998@gmail.com) - 
+[![Whatsapp](static/icons//whatsapp.png)](wa.me/919284999269)
 </p>
 
 <!--
