@@ -1,8 +1,7 @@
 ## Hi There! 👋
 
 <!-- [data-analyst](static/data-analyst.gif) -->
-<center><img style="width: 80%;" src="static\data-analyst.gif" alt="data-analyst"></center>
-<span style="display:block;text-align:center">![Test Automation]("static/data-analyst.gif")</span>
+<img style="display: flex; margin-left: auto; margin-right: auto; width: 80%;" src="static\Mayur Shrotriya.png" alt="data-analyst">
 
 <!--
 **mayur-sh/mayur-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
