@@ -1,14 +1,14 @@
 ## Hi There! 👋
 
-<!-- [data-analyst](static/data-analyst.gif) -->
-<img style="display: flex; margin-left: auto; margin-right: auto; width: 100%;" src="static\data-analyst.gif" alt="data-analyst">
-
+<p align="center">
+    <img style="display: flex; margin-left: auto; margin-right: auto; width: 100%;" src="static\data-analyst.gif" alt="data-analyst">
+</p>
 
 <p align="center">
-    <img src="static/icons/linkedin.png" alt="">
-    <img src="static/icons/portfolio.png" alt="">
-    <img src="static/icons/mail.png" alt="">
-    <img src="static/icons/whatsapp.png" alt="">
+    <img src="static/icons/linkedin.png" alt="" hspace="20">
+    <img src="static/icons/portfolio.png" alt="" hspace="20">
+    <img src="static/icons/mail.png" alt="" hspace="20">
+    <img src="static/icons/whatsapp.png" alt="" hspace="20">
 </p>
 
 <!--
