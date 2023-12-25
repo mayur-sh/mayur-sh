@@ -2,7 +2,8 @@
 
 <!-- [data-analyst](static/data-analyst.gif) -->
 <center><img style="width: 80%;" src="static\data-analyst.gif" alt="data-analyst"></center>
-<span style="display:block;text-align:center">![Test Automation]static\data-analyst.gif)</span>
+<span style="display:block;text-align:center">![Test Automation]static/data-analyst.gif)</span>
+
 <!--
 **mayur-sh/mayur-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
