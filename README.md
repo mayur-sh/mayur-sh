@@ -9,12 +9,10 @@
         <img style="height:100px;" href="google.com"
             src="https://drive.google.com/uc?export=download&id=1HFShwdDAz1zpvevNJGHrhFLiBJGyOnPS" alt="Badge">
     </a>
-    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     <a href="https://www.credential.net/d05b287c-f7d5-4f95-b14c-22ec3132548c#gs.3b8eux" target="_blank">
         <img style="height:100px;"
             src="https://drive.google.com/uc?export=download&id=1eNgtxLeWswWq4hQTg6PT8MYTfQ6plobQ" alt="Badge">
     </a>
-    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/U5FV3T3JH874" target="_blank">
         <img style="height:100px;"
             src="https://drive.google.com/uc?export=download&id=1nYxALIxE1FSsoVMP4J-zjWFtJyF_DrV2" alt="Badge">
