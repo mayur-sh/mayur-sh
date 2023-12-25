@@ -11,7 +11,9 @@
     I'm a Data Analyst with a passion for turning raw data into actionable insights. With a background in Data Engineering and strong skills in Data Visualization, I love transforming complex datasets into compelling stories.
 </p>
 
-### Certifications
+***
+
+<h3 style="text-align:center;">🏆 Certifications</h3>
 
 <p align="center">
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HLYZCTKCM3ZL" target="_blank">
@@ -28,7 +30,7 @@
     </a>
 </p>
 
-### Hackerrank Badges
+<h3 style="text-align:center;">🎖️ Hackerrank Badges</h3>
 
 <p align="center">
     <a href="https://www.hackerrank.com/profile/mayur_sh">
@@ -39,6 +41,7 @@
     </a>
 </p>
 
+***
 
 ### 🚀 Skills
 
@@ -66,8 +69,9 @@ Workflow Automation, Task Scheduling, Job Orchestration, Airflow or similar tool
 - **Soft Skills**
 Problem-Solving and Critical Thinking, Strong Analytical Skills, Effective Communication of Data Insights, Collaboration and Teamwork, Continuous Learning and Adaptability
 
+***
 
-### 📫 Connect with Me
+<h3 style="text-align:center;">📫 Connect with Me</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mayur-sh/">
