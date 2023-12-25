@@ -1,6 +1,10 @@
 ## Hi There! 👋
 
-![data-analyst](static/data-analyst.gif)
+<!-- [data-analyst](static/data-analyst.gif) -->
+<p style="align-items: center;">
+    <img src="static/data-analyst.gif" alt="data-analyst">
+</p>
+
 
 <!--
 **mayur-sh/mayur-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
