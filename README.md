@@ -14,7 +14,7 @@
 ***
 
 <p align="center">
-    <h3 style="text-align:center;">🏆 Certifications</h3>
+    <h3>🏆 Certifications</h3>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <h3 style="text-align:center;">🎖️ Hackerrank Badges</h3>
+    <h3>🎖️ Hackerrank Badges</h3>
 </p>
 
 <p align="center">
