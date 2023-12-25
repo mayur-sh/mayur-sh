@@ -1,9 +1,5 @@
 ### 👋 Hello, I'm Mayur Shrotriya!
 
-<p align="center">
-    <img style="display: flex; margin-left: auto; margin-right: auto; width: 40%;" src="static\data-analyst.gif" alt="data-analyst">
-</p>
-
 <p style="text-align: justify">
     I'm a Data Analyst with a passion for turning raw data into actionable insights. With a background in Data Engineering and strong skills in Data Visualization, I love transforming complex datasets into compelling stories.
 </p>
@@ -57,7 +53,8 @@
         Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning and Preprocessing, Data Modeling and
         Predictive Analysis, Machine Learning
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Data Analytics
         </strong></li>
@@ -65,14 +62,16 @@
         Business Intelligence (BI) and Reporting, Key Performance Indicator (KPI) Tracking, Dashboard Development and
         Optimization, Trend Analysis and Forecasting, Customer and Market Analytics, Data-driven Decision Making
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Data Engineering
         </strong></li>
     <p>
         ETL (Extract, Transform, Load) Processes, Data Pipeline Development, Data Integration
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Data Visualization
         </strong></li>
@@ -80,14 +79,16 @@
         Data Visualization Tools (e.g., Power BI, Looker, Looker Studio), Custom Dashboard Design, Interactive Data
         Dashboards, Storytelling through Data Visualization, Geospatial Data Visualization
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Programming Languages
         </strong></li>
     <p>
         Python, SQL, Visual Basic
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Tools and Technologies
         </strong></li>
@@ -95,14 +96,16 @@
         Jupyter Lab, Google Colab, VSCode for Data Analysis, Cloud Platforms (e.g. Google Cloud, Azure), Git and Version
         Control, Linux Servers for pipeline deployment, Data Versioning and Documentation
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Orchestration Tools
         </strong></li>
     <p>
         Workflow Automation, Task Scheduling, Job Orchestration, Airflow or similar tools for Workflow Management
     </p>
-
+</ul>
+<ul>
     <li><strong>
             Soft Skills
         </strong></li>
