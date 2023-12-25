@@ -13,7 +13,9 @@
 
 ***
 
-<h3 style="text-align:center;">🏆 Certifications</h3>
+<p align="center">
+    <h3 style="text-align:center;">🏆 Certifications</h3>
+</p>
 
 <p align="center">
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HLYZCTKCM3ZL" target="_blank">
@@ -30,7 +32,9 @@
     </a>
 </p>
 
-<h3 style="text-align:center;">🎖️ Hackerrank Badges</h3>
+<p align="center">
+    <h3 style="text-align:center;">🎖️ Hackerrank Badges</h3>
+</p>
 
 <p align="center">
     <a href="https://www.hackerrank.com/profile/mayur_sh">
