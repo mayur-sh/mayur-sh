@@ -1,9 +1,7 @@
 ## Hi There! 👋
 
 <!-- [data-analyst](static/data-analyst.gif) -->
-<p style="align-items: center;">
-    <img src="static/data-analyst.gif" alt="data-analyst">
-</p>
+<img style="display: flex; margin-left: auto; margin-right: auto; width: 80%;" src="static\data-analyst.gif" alt="data-analyst">
 
 
 <!--
