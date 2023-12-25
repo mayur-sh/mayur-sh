@@ -1,7 +1,7 @@
 ## Hi There! 👋
 
 <!-- [data-analyst](static/data-analyst.gif) -->
-<img style="display: flex; margin-left: auto; margin-right: auto; width: 80%;" src="static\data-analyst.gif" alt="data-analyst">
+<center><img style="width: 80%;" src="static\data-analyst.gif" alt="data-analyst"></center>
 
 
 <!--
