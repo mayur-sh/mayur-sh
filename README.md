@@ -1,9 +1,5 @@
 ### 👋 Hello, I'm Mayur Shrotriya!
 
-<p align="center">
-    <img style="display: flex; margin-left: auto; margin-right: auto; width: 40%;" src="static\data-analyst.gif" alt="data-analyst">
-</p>
-
 <p style="text-align: justify">
     I'm a Data Analyst with a passion for turning raw data into actionable insights. With a background in Data Engineering and strong skills in Data Visualization, I love transforming complex datasets into compelling stories.
 </p>
