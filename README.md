@@ -2,7 +2,7 @@
 
 <!-- [data-analyst](static/data-analyst.gif) -->
 <img style="display: flex; margin-left: auto; margin-right: auto; width: 80%;" src="static\data-analyst.gif" alt="data-analyst">
-<span style="display:block;text-align:center;align-items:center">![Test Automation]static/data-analyst.gif)</span>
+<span style="display:block;text-align:center;align-items:center">![Test Automation](static/data-analyst.gif)</span>
 
 
 <!--
