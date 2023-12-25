@@ -1,6 +1,10 @@
 ### 👋 Hello, I'm Mayur Shrotriya!
 
-<p align="justify">
+<p align="center">
+    <img style="display: flex; margin-left: auto; margin-right: auto; width: 40%;" src="static\data-analyst.gif" alt="data-analyst">
+</p>
+
+<p style="text-align: justify">
     I'm a Data Analyst with a passion for turning raw data into actionable insights. With a background in Data Engineering and strong skills in Data Visualization, I love transforming complex datasets into compelling stories.
 </p>
 
@@ -43,32 +47,73 @@
 ***
 
 ### 🚀 Skills
+
 <p align="justify">
-    - **Data Analysis**
-    Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning and Preprocessing, Data Modeling and Predictive Analysis, Machine Learning
-    
-    - **Data Analytics**
-    Business Intelligence (BI) and Reporting, Key Performance Indicator (KPI) Tracking, Dashboard Development and Optimization, Trend Analysis and Forecasting, Customer and Market Analytics, Data-driven Decision Making
-    
-    - **Data Engineering**
-    ETL (Extract, Transform, Load) Processes, Data Pipeline Development, Data Integration
-    
-    - **Data Visualization**
-    Data Visualization Tools (e.g., Power BI, Looker, Looker Studio), Custom Dashboard Design, Interactive Data Dashboards, Storytelling through Data Visualization, Geospatial Data Visualization
-    
-    - **Programming Languages**
-    Python, SQL, Visual Basic
-    
-    - **Tools and Technologies**
-    Jupyter Lab, Google Colab, VSCode for Data Analysis, Cloud Platforms (e.g. Google Cloud, Azure), Git and Version Control, Linux Servers for pipeline deployment, Data Versioning and Documentation
-    
-    - **Orchestration Tools**
-    Workflow Automation, Task Scheduling, Job Orchestration, Airflow or similar tools for Workflow Management
-    
-    - **Soft Skills**
-    Problem-Solving and Critical Thinking, Strong Analytical Skills, Effective Communication of Data Insights, Collaboration and Teamwork, Continuous Learning and Adaptability
+<ul>
+    <li><strong>
+            Data Analysis
+        </strong></li>
+    <p>
+        Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning and Preprocessing, Data Modeling and
+        Predictive Analysis, Machine Learning
+    </p>
+
+    <li><strong>
+            Data Analytics
+        </strong></li>
+    <p>
+        Business Intelligence (BI) and Reporting, Key Performance Indicator (KPI) Tracking, Dashboard Development and
+        Optimization, Trend Analysis and Forecasting, Customer and Market Analytics, Data-driven Decision Making
+    </p>
+
+    <li><strong>
+            Data Engineering
+        </strong></li>
+    <p>
+        ETL (Extract, Transform, Load) Processes, Data Pipeline Development, Data Integration
+    </p>
+
+    <li><strong>
+            Data Visualization
+        </strong></li>
+    <p>
+        Data Visualization Tools (e.g., Power BI, Looker, Looker Studio), Custom Dashboard Design, Interactive Data
+        Dashboards, Storytelling through Data Visualization, Geospatial Data Visualization
+    </p>
+
+    <li><strong>
+            Programming Languages
+        </strong></li>
+    <p>
+        Python, SQL, Visual Basic
+    </p>
+
+    <li><strong>
+            Tools and Technologies
+        </strong></li>
+    <p>
+        Jupyter Lab, Google Colab, VSCode for Data Analysis, Cloud Platforms (e.g. Google Cloud, Azure), Git and Version
+        Control, Linux Servers for pipeline deployment, Data Versioning and Documentation
+    </p>
+
+    <li><strong>
+            Orchestration Tools
+        </strong></li>
+    <p>
+        Workflow Automation, Task Scheduling, Job Orchestration, Airflow or similar tools for Workflow Management
+    </p>
+
+    <li><strong>
+            Soft Skills
+        </strong></li>
+    <p>
+        Problem-Solving and Critical Thinking, Strong Analytical Skills, Effective Communication of Data Insights,
+        Collaboration and Teamwork, Continuous Learning and Adaptability
+    </p>
+</ul>
 
 </p>
+
 ***
 
 <h3 style="text-align:center;">📫 Connect with Me</h3>
