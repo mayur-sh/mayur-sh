@@ -131,7 +131,7 @@
     <a href="mailto:mayurvs1998@gmail.com">
         <img src="static/icons/mail.png" alt="" hspace="30">
     </a>
-    <a href="wa.me/919284999269">
+    <a href="https://wa.me/919284999269">
         <img src="static/icons/whatsapp.png" alt="" hspace="30">
     </a>
 </p>
