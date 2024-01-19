@@ -122,16 +122,16 @@
 <h3 style="text-align:center;">📫 Connect with Me</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mayur-sh/">
+    <a href="https://www.linkedin.com/in/mayur-sh/" target="_blank">
         <img src="static/icons/linkedin.png" alt="" hspace="30">
     </a>
-    <a href="https://sites.google.com/view/mayur-sh">
+    <a href="https://sites.google.com/view/mayur-sh" target="_blank">
         <img src="static/icons/website.png" alt="" hspace="30">
     </a>
-    <a href="mailto:mayurvs1998@gmail.com">
+    <a href="mailto:mayurvs1998@gmail.com" target="_blank">
         <img src="static/icons/mail.png" alt="" hspace="30">
     </a>
-    <a href="https://wa.me/919284999269">
+    <a href="https://wa.me/919284999269" target="_blank">
         <img src="static/icons/whatsapp.png" alt="" hspace="30">
     </a>
 </p>
