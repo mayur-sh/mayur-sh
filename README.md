@@ -122,17 +122,17 @@
 <h3 style="text-align:center;">📫 Connect with Me</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mayur-sh/" target="_blank">
-        <img src="static/icons/linkedin.png" alt="" hspace="30">
+    <a href="https://wa.me/919284999269" target="_blank">
+        <img src="https://drive.google.com/thumbnail?id=1mdwT4obMTmtvHawcAs5ig4vlQ2-oxYzo" alt="whatsapp-icon" width="25%" height="auto">
     </a>
-    <a href="https://sites.google.com/view/mayur-sh" target="_blank">
-        <img src="static/icons/website.png" alt="" hspace="30">
+    <a href="https://www.linkedin.com/in/mayur-sh/" target="_blank">
+        <img src="https://drive.google.com/thumbnail?id=13toM3454K63dYgyPH03nLUPYL0262tFC" alt="linkedin-icon" width="25%" height="auto">
+    </a>
+    <a href="https://github.com/mayur-sh" target="_blank">
+        <img src="https://drive.google.com/thumbnail?id=1aSXwuGN4ZFwp3gwWtZTFh-fINlOmnII-" alt="github-icon" width="25%" height="auto">
     </a>
     <a href="mailto:mayurvs1998@gmail.com" target="_blank">
-        <img src="static/icons/mail.png" alt="" hspace="30">
-    </a>
-    <a href="https://wa.me/919284999269" target="_blank">
-        <img src="static/icons/whatsapp.png" alt="" hspace="30">
+        <img src="https://drive.google.com/thumbnail?id=1ahdRXF4DXwBDAHXMdK1LiL6YKkVBiw0J" alt="gmail-icon" width="25%" height="auto">
     </a>
 </p>
 
