@@ -14,13 +14,13 @@
     <a href="https://www.credly.com/badges/64a0750a-5df3-4a1f-ac34-07d4ed3eb13e/public_url" target="_blank">
     <img style="height:100px;" src="https://drive.google.com/uc?export=download&id=1_PK2FwiakCE1i8COquIVQ_0c-VXUH2j5" alt="Badge" hspace="20" >
     </a>
-    <a href="[https://www.credential.net/d05b287c-f7d5-4f95-b14c-22ec3132548c#gs.3b8eux](https://www.credly.com/badges/6f7d67b7-383b-4851-b92b-7f7d746b22fa/public_url)" target="_blank">
+    <a href="https://www.credly.com/badges/6f7d67b7-383b-4851-b92b-7f7d746b22fa/public_url" target="_blank">
     <img style="height:100px;" src="https://drive.google.com/uc?export=download&id=1eNgtxLeWswWq4hQTg6PT8MYTfQ6plobQ" alt="Badge" hspace="20">
     </a> 
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HLYZCTKCM3ZL" target="_blank">
+    <a href="https://www.credly.com/badges/cc5d2827-3324-416f-a7e3-e9f29a94ff9d/public_url" target="_blank">
     <img style="height:100px;" href="google.com" src="https://drive.google.com/uc?export=download&id=1HFShwdDAz1zpvevNJGHrhFLiBJGyOnPS" alt="Badge" hspace="20">
     </a>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/U5FV3T3JH874" target="_blank">
+    <a href="https://www.credly.com/badges/991d2c33-6cae-4431-88ae-ba444e870d5f/public_url" target="_blank">
     <img style="height:100px;" src="https://drive.google.com/uc?export=download&id=1nYxALIxE1FSsoVMP4J-zjWFtJyF_DrV2" alt="Badge" hspace="20" >
     </a>
 </p>
